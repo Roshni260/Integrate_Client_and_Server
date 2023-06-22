@@ -12,10 +12,10 @@ Here, I have created a simple web application for login and registration where t
 ![login1](https://github.com/Roshni260/Integrate_Client_and_Server/assets/78523870/71758157-8878-4a25-9520-3cc529f1852d)
 
 #### 🛑 Step 2: The data entered by the user is stored in the database as shown below
-![login3](https://github.com/Roshni260/Integrate_Client_and_Server/assets/78523870/1a6e67b4-433f-4b1c-9540-ad4adc5f19a7)
+![login4](https://github.com/Roshni260/Integrate_Client_and_Server/assets/78523870/1a8b9c5a-90e7-4849-bca8-b394f829db57)
 
 #### 🛑 Step 3: Now the user has created an account. So he/she can login
 ![login2](https://github.com/Roshni260/Integrate_Client_and_Server/assets/78523870/bace544f-e703-4174-9645-10816a28e40f)
 
 #### 🛑 Step 4: When the user has successfully logged in, it will show as follow
-![login4](https://github.com/Roshni260/Integrate_Client_and_Server/assets/78523870/1a8b9c5a-90e7-4849-bca8-b394f829db57)
+![login3](https://github.com/Roshni260/Integrate_Client_and_Server/assets/78523870/1a6e67b4-433f-4b1c-9540-ad4adc5f19a7)
