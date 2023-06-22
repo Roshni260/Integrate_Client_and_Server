@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<div align="center">
+<form action="login.jsp" method="post">
+<h1>Login here</h1>
+<label>Enter your username:</label><input type="text" name="uname"><br><br>
+<label>Enter your password:</label><input type="password" name="pwd"><br><br>
+<input type="submit" value="Login">
+</form></div>
+</body>
+</html>
